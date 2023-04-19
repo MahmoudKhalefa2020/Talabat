@@ -1,0 +1,160 @@
+.talabatpartner{
+    background-image: url(../image/new-banner.png);
+}
+.navbar p ,.talabatfooter p
+{
+    color: #ff5a00;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+
+.navbar a
+{
+    text-decoration: none;
+    color: white;
+    
+}
+.navbat-details
+{
+    margin-top: 100px;
+}
+.navbat-details h2
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+}
+.navbat-details p
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+.navbat-details h2,.navbat-details p
+{
+    color: white;
+}
+.map-form iframe
+{
+    height: 300px;
+} 
+.submit-form .btn
+{
+    background-color: #ff5a00;
+}
+.benefits p,.benefitsdelivery p ,.works p 
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+
+}
+.benefitsmember p ,.benefitsmember small
+{
+    font-family: 'Roboto', sans-serif;
+    
+}
+.benefitsmember p ,.benefitsdeliverymember p 
+{
+    font-weight: 100;
+    font-size: 20px;
+}
+.benefitsmember small
+{
+    font-size: 15px;
+}
+.benefitsdeliverymember
+{
+    position: relative;
+}
+.benefitsdeliverymember ::after
+{
+    content: "";
+    width: 100%;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    height: 8px;
+    border-radius: 8px;
+    background-color: #0643FF;
+}
+
+.fleetparent-1
+{
+    height: 500px;
+    position: relative;
+   
+}
+.fleet-member-1
+{
+
+    position: absolute;
+    top: 30%;
+    right: 0%;
+    
+    
+}
+.fleetparent-2
+{
+    
+    height: 500px;
+    position: relative;
+   
+
+}
+.fleet-member-2
+{
+    position: absolute;
+    top: 50%;
+    left: 0;
+   
+    
+
+}
+
+.fleet-member-2 p
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    
+}
+
+.btn-primary
+{
+    background-color: #ff5a00;
+    border: none;
+    width: 30%;
+
+}
+.btn-primary:hover
+{
+    background-color: #ff5a00;
+}
+
+.applink 
+{
+    margin-right: 10px;
+    
+}
+.googlelink
+{
+    margin-left: 10px;
+}
+.footer
+{
+    background-color: #1f2532;
+}
+.vendor
+{
+    border: 2px solid#ff5a00;
+    background-color: transparent;
+}
+.vendor:hover
+{
+    background-color: transparent;
+    border: 2px solid#ff5a00;
+
+}
